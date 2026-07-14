@@ -13,10 +13,10 @@ st.markdown("Comparing Kaggle listing data against the official GASTAT price ind
 # ============================================
 # LOAD DATA
 # ============================================
-df_2022 = pd.read_csv("../data/clean_2022Q1.csv")
-df_2023 = pd.read_csv("../data/clean_2023Q1.csv")
-df_all = pd.read_csv("../data/clean_combined.csv")
-comparison = pd.read_csv("../data/final_comparison.csv")
+df_2022 = pd.read_csv("data/clean_2022Q1.csv")
+df_2023 = pd.read_csv("data/clean_2023Q1.csv")
+df_all = pd.read_csv("data/clean_combined.csv")
+comparison = pd.read_csv("data/final_comparison.csv")
 
 # ============================================
 # SIDEBAR - Dataset description + filters
