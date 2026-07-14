@@ -1,0 +1,939 @@
+﻿Periodicity;Year;Quarter;Measure;City;value;Date
+Quarterly;2021;Q1;Index;Aseer;88.47;2021-03
+Quarterly;2021;Q1;Index;Najran;86.49;2021-03
+Quarterly;2021;Q2;Index;Index Numbers;82.06;2021-06
+Quarterly;2021;Q2;Index;Riyadh;74.86;2021-06
+Quarterly;2021;Q2;Index;Makkah;86.7;2021-06
+Quarterly;2021;Q2;Index;Eastern Province;92.74;2021-06
+Quarterly;2021;Q3;Index;Hail;95.54;2021-09
+Quarterly;2021;Q3;Index;Northern Borders;91.33;2021-09
+Quarterly;2021;Q4;Index;Aseer;94.15;2021-12
+Quarterly;2021;Q4;Index;Hail;97.27;2021-12
+Quarterly;2021;Q4;Index;Northern Borders;92.42;2021-12
+Quarterly;2022;Q1;Index;Index Numbers;91.29;2022-03
+Quarterly;2022;Q2;Index;Al Qaseem;99.01;2022-06
+Quarterly;2022;Q3;Index;Tabouk;93.6;2022-09
+Quarterly;2022;Q3;Index;Jazan;97.39;2022-09
+Quarterly;2022;Q3;Index;Al Baha;93.36;2022-09
+Quarterly;2022;Q3;Index;Al Jouf;98.09;2022-09
+Quarterly;2022;Q4;Index;Hail;101.78;2022-12
+Quarterly;2022;Q4;Index;Al Baha;102.12;2022-12
+Quarterly;2023;Q1;Index;Eastern Province;101.09;2023-03
+Quarterly;2023;Q1;Index;Tabouk;95.63;2023-03
+Quarterly;2023;Q1;Index;Hail;101.84;2023-03
+Quarterly;2023;Q2;Index;Riyadh;99.93;2023-06
+Quarterly;2023;Q2;Index;Makkah;100.65;2023-06
+Quarterly;2023;Q2;Index;Madinah;102.88;2023-06
+Quarterly;2023;Q3;Index;Eastern Province;100.4;2023-09
+Quarterly;2023;Q4;Index;Makkah;98.76;2023-12
+Quarterly;2023;Q4;Index;Northern Borders;102.51;2023-12
+Quarterly;2024;Q1;Index;Jazan;103.74;2024-03
+Quarterly;2024;Q1;Index;Al Baha;82.11;2024-03
+Quarterly;2024;Q2;Index;Index Numbers;101.79;2024-06
+Quarterly;2024;Q2;Index;Hail;99.79;2024-06
+Quarterly;2024;Q3;Index;Riyadh;109.85;2024-09
+Quarterly;2024;Q3;Index;Eastern Province;92.05;2024-09
+Quarterly;2024;Q3;Index;Hail;101.12;2024-09
+Quarterly;2024;Q4;Index;Hail;103.01;2024-12
+Quarterly;2024;Q4;Index;Al Baha;83.09;2024-12
+Quarterly;2025;Q1;Index;Index Numbers;104.93;2025-03
+Quarterly;2025;Q1;Index;Riyadh;114.89;2025-03
+Quarterly;2025;Q1;Index;Madinah;98.49;2025-03
+Quarterly;2025;Q1;Index;Aseer;87.52;2025-03
+Quarterly;2025;Q1;Index;Northern Borders;107.05;2025-03
+Quarterly;2025;Q2;Index;Index Numbers;105.0;2025-06
+Quarterly;2025;Q2;Index;Madinah;96.03;2025-06
+Quarterly;2025;Q3;Index;Eastern Province;97.62;2025-09
+Quarterly;2025;Q3;Index;Hail;93.69;2025-09
+Quarterly;2025;Q3;Index;Jazan;100.71;2025-09
+Quarterly;2025;Q3;Index;Al Jouf;93.63;2025-09
+Quarterly;2025;Q4;Index;Makkah;100.65;2025-12
+Quarterly;2025;Q4;Index;Al Qaseem;93.01;2025-12
+Quarterly;2025;Q4;Index;Jazan;100.38;2025-12
+Quarterly;2025;Q4;Index;Al Baha;78.93;2025-12
+Quarterly;2026;Q1;Index;Makkah;99.37;2026-03
+Quarterly;2021;Q2;QoQ;Makkah;0.0;2021-06
+Quarterly;2021;Q2;QoQ;Tabouk;-1.9;2021-06
+Quarterly;2021;Q2;QoQ;Jazan;2.7;2021-06
+Quarterly;2021;Q3;QoQ;Riyadh;6.3;2021-09
+Quarterly;2021;Q4;QoQ;Makkah;1.7;2021-12
+Quarterly;2021;Q4;QoQ;Aseer;0.4;2021-12
+Quarterly;2021;Q4;QoQ;Northern Borders;1.2;2021-12
+Quarterly;2021;Q4;QoQ;Al Jouf;-0.4;2021-12
+Quarterly;2022;Q1;QoQ;Madinah;0.3;2022-03
+Quarterly;2022;Q1;QoQ;Aseer;0.8;2022-03
+Quarterly;2022;Q1;QoQ;Jazan;-2.2;2022-03
+Quarterly;2022;Q1;QoQ;Al Baha;-9.0;2022-03
+Quarterly;2022;Q2;QoQ;Madinah;3.1;2022-06
+Quarterly;2022;Q2;QoQ;Hail;3.0;2022-06
+Quarterly;2022;Q3;QoQ;Makkah;6.3;2022-09
+Quarterly;2022;Q3;QoQ;Madinah;-1.2;2022-09
+Quarterly;2022;Q4;QoQ;Aseer;1.9;2022-12
+Quarterly;2023;Q1;QoQ;Makkah;0.1;2023-03
+Quarterly;2023;Q1;QoQ;Madinah;0.9;2023-03
+Quarterly;2023;Q1;QoQ;Hail;0.1;2023-03
+Quarterly;2023;Q1;QoQ;Jazan;2.1;2023-03
+Quarterly;2023;Q1;QoQ;Al Jouf;5.5;2023-03
+Quarterly;2023;Q2;QoQ;Northern Borders;-0.6;2023-06
+Quarterly;2023;Q3;QoQ;Madinah;-2.1;2023-09
+Quarterly;2023;Q3;QoQ;Al Jouf;-7.2;2023-09
+Quarterly;2023;Q4;QoQ;Index Numbers;0.6;2023-12
+Quarterly;2023;Q4;QoQ;Madinah;-3.5;2023-12
+Quarterly;2023;Q4;QoQ;Hail;6.1;2023-12
+Quarterly;2023;Q4;QoQ;Jazan;-0.6;2023-12
+Quarterly;2023;Q4;QoQ;Najran;-0.2;2023-12
+Quarterly;2024;Q1;QoQ;Northern Borders;-3.9;2024-03
+Quarterly;2024;Q1;QoQ;Jazan;2.8;2024-03
+Quarterly;2024;Q2;QoQ;Riyadh;3.6;2024-06
+Quarterly;2024;Q2;QoQ;Jazan;-1.6;2024-06
+Quarterly;2024;Q3;QoQ;Hail;1.3;2024-09
+Quarterly;2024;Q4;QoQ;Al Qaseem;-2.0;2024-12
+Quarterly;2024;Q4;QoQ;Hail;1.9;2024-12
+Quarterly;2024;Q4;QoQ;Jazan;-0.9;2024-12
+Quarterly;2024;Q4;QoQ;Al Jouf;-4.7;2024-12
+Quarterly;2025;Q1;QoQ;Index Numbers;0.7;2025-03
+Quarterly;2025;Q1;QoQ;Makkah;1.9;2025-03
+Quarterly;2025;Q1;QoQ;Tabouk;-1.7;2025-03
+Quarterly;2025;Q1;QoQ;Jazan;2.4;2025-03
+Quarterly;2025;Q2;QoQ;Madinah;-2.5;2025-06
+Quarterly;2025;Q2;QoQ;Al Qaseem;0.6;2025-06
+Quarterly;2025;Q2;QoQ;Hail;-1.0;2025-06
+Quarterly;2025;Q3;QoQ;Al Qaseem;-4.9;2025-09
+Quarterly;2025;Q3;QoQ;Tabouk;-0.8;2025-09
+Quarterly;2025;Q3;QoQ;Najran;0.8;2025-09
+Quarterly;2025;Q3;QoQ;Al Baha;-1.9;2025-09
+Quarterly;2025;Q4;QoQ;Index Numbers;-0.4;2025-12
+Quarterly;2025;Q4;QoQ;Makkah;0.2;2025-12
+Quarterly;2025;Q4;QoQ;Northern Borders;0.5;2025-12
+Quarterly;2026;Q1;QoQ;Index Numbers;-0.2;2026-03
+Quarterly;2026;Q1;QoQ;Northern Borders;5.9;2026-03
+Quarterly;2022;Q1;YoY;Jazan;-1.9;2022-03
+Quarterly;2022;Q2;YoY;Madinah;11.8;2022-06
+Quarterly;2022;Q2;YoY;Al Qaseem;12.3;2022-06
+Quarterly;2022;Q3;YoY;Riyadh;17.2;2022-09
+Quarterly;2022;Q3;YoY;Madinah;5.0;2022-09
+Quarterly;2022;Q3;YoY;Al Jouf;-0.2;2022-09
+Quarterly;2022;Q4;YoY;Eastern Province;-2.4;2022-12
+Quarterly;2022;Q4;YoY;Tabouk;2.3;2022-12
+Quarterly;2022;Q4;YoY;Jazan;2.1;2022-12
+Quarterly;2023;Q1;YoY;Al Qaseem;6.3;2023-03
+Quarterly;2023;Q1;YoY;Eastern Province;2.2;2023-03
+Quarterly;2023;Q2;YoY;Madinah;4.0;2023-06
+Quarterly;2023;Q2;YoY;Aseer;5.3;2023-06
+Quarterly;2023;Q3;YoY;Hail;-2.5;2023-09
+Quarterly;2023;Q4;YoY;Madinah;-1.1;2023-12
+Quarterly;2023;Q4;YoY;Al Jouf;2.2;2023-12
+Quarterly;2024;Q1;YoY;Riyadh;6.3;2024-03
+Quarterly;2024;Q1;YoY;Madinah;0.7;2024-03
+Quarterly;2024;Q1;YoY;Northern Borders;-0.6;2024-03
+Quarterly;2024;Q1;YoY;Al Baha;-19.3;2024-03
+Quarterly;2024;Q2;YoY;Madinah;-3.5;2024-06
+Quarterly;2024;Q3;YoY;Index Numbers;2.6;2024-09
+Quarterly;2024;Q3;YoY;Riyadh;10.2;2024-09
+Quarterly;2024;Q3;YoY;Makkah;-1.4;2024-09
+Quarterly;2024;Q4;YoY;Index Numbers;3.6;2024-12
+Quarterly;2024;Q4;YoY;Al Qaseem;-3.7;2024-12
+Quarterly;2024;Q4;YoY;Aseer;-7.3;2024-12
+Quarterly;2024;Q4;YoY;Northern Borders;-1.2;2024-12
+Quarterly;2025;Q1;YoY;Index Numbers;4.3;2025-03
+Quarterly;2025;Q1;YoY;Eastern Province;-5.5;2025-03
+Quarterly;2025;Q1;YoY;Najran;5.6;2025-03
+Quarterly;2025;Q1;YoY;Al Jouf;8.2;2025-03
+Quarterly;2025;Q2;YoY;Index Numbers;3.2;2025-06
+Quarterly;2025;Q2;YoY;Madinah;-3.2;2025-06
+Quarterly;2025;Q2;YoY;Eastern Province;4.2;2025-06
+Quarterly;2025;Q3;YoY;Al Baha;-1.4;2025-09
+Quarterly;2025;Q4;YoY;Index Numbers;-0.7;2025-12
+Quarterly;2025;Q4;YoY;Hail;-8.9;2025-12
+Quarterly;2026;Q1;YoY;Al Qaseem;-5.1;2026-03
+Quarterly;2026;Q1;YoY;Al Baha;-9.2;2026-03
+Annually;2021;Annual average;Index;Madinah;91.52;2021-01
+Annually;2021;Annual average;Index;Eastern Province;94.76;2021-01
+Annually;2021;Annual average;Index;Al Baha;116.07;2021-01
+Annually;2022;Annual average;Index;Riyadh;92.05;2022-01
+Annually;2022;Annual average;Index;Al Baha;99.34;2022-01
+Annually;2023;Annual average;Index;Makkah;100.0;2023-01
+Annually;2023;Annual average;Index;Tabouk;100.0;2023-01
+Annually;2023;Annual average;Index;Northern Borders;100.0;2023-01
+Annually;2023;Annual average;Index;Al Jouf;100.0;2023-01
+Annually;2024;Annual average;Index;Makkah;98.39;2024-01
+Annually;2024;Annual average;Index;Tabouk;100.34;2024-01
+Annually;2024;Annual average;Index;Hail;100.86;2024-01
+Annually;2025;Annual average;Index;Madinah;94.49;2025-01
+Annually;2025;Annual average;Index;Aseer;87.34;2025-01
+Annually;2025;Annual average;Index;Tabouk;102.93;2025-01
+Annually;2022;Annual average;YoY;Makkah;11.1;2022-01
+Annually;2022;Annual average;YoY;Hail;5.4;2022-01
+Annually;2022;Annual average;YoY;Najran;0.6;2022-01
+Annually;2022;Annual average;YoY;Al Baha;-14.4;2022-01
+Annually;2023;Annual average;YoY;Al Qaseem;0.2;2023-01
+Annually;2023;Annual average;YoY;Northern Borders;-0.1;2023-01
+Annually;2024;Annual average;YoY;Al Qaseem;-3.4;2024-01
+Annually;2024;Annual average;YoY;Aseer;-8.8;2024-01
+Annually;2025;Annual average;YoY;Al Baha;-1.5;2025-01
+Quarterly;2021;Q1;Index;Makkah;86.67;2021-03
+Quarterly;2021;Q2;Index;Aseer;89.27;2021-06
+Quarterly;2021;Q2;Index;Tabouk;89.6;2021-06
+Quarterly;2021;Q2;Index;Hail;91.39;2021-06
+Quarterly;2021;Q2;Index;Al Baha;123.54;2021-06
+Quarterly;2021;Q3;Index;Madinah;92.99;2021-09
+Quarterly;2021;Q3;Index;Al Qaseem;90.61;2021-09
+Quarterly;2021;Q3;Index;Tabouk;91.38;2021-09
+Quarterly;2021;Q4;Index;Index Numbers;89.15;2021-12
+Quarterly;2021;Q4;Index;Riyadh;84.29;2021-12
+Quarterly;2021;Q4;Index;Makkah;90.56;2021-12
+Quarterly;2021;Q4;Index;Tabouk;90.1;2021-12
+Quarterly;2021;Q4;Index;Najran;88.1;2021-12
+Quarterly;2021;Q4;Index;Al Jouf;97.88;2021-12
+Quarterly;2022;Q1;Index;Makkah;92.53;2022-03
+Quarterly;2022;Q1;Index;Madinah;95.94;2022-03
+Quarterly;2022;Q1;Index;Al Qaseem;95.7;2022-03
+Quarterly;2022;Q2;Index;Makkah;96.61;2022-06
+Quarterly;2022;Q2;Index;Madinah;98.89;2022-06
+Quarterly;2022;Q2;Index;Northern Borders;96.94;2022-06
+Quarterly;2022;Q2;Index;Al Jouf;95.11;2022-06
+Quarterly;2022;Q3;Index;Index Numbers;97.5;2022-09
+Quarterly;2022;Q3;Index;Madinah;97.66;2022-09
+Quarterly;2022;Q4;Index;Index Numbers;97.22;2022-12
+Quarterly;2022;Q4;Index;Aseer;98.4;2022-12
+Quarterly;2022;Q4;Index;Tabouk;92.16;2022-12
+Quarterly;2022;Q4;Index;Najran;90.99;2022-12
+Quarterly;2023;Q2;Index;Najran;105.13;2023-06
+Quarterly;2023;Q3;Index;Madinah;100.77;2023-09
+Quarterly;2023;Q3;Index;Hail;96.35;2023-09
+Quarterly;2023;Q3;Index;Najran;98.47;2023-09
+Quarterly;2023;Q3;Index;Al Baha;93.07;2023-09
+Quarterly;2023;Q3;Index;Al Jouf;97.26;2023-09
+Quarterly;2023;Q4;Index;Riyadh;102.84;2023-12
+Quarterly;2023;Q4;Index;Aseer;95.52;2023-12
+Quarterly;2023;Q4;Index;Al Jouf;97.5;2023-12
+Quarterly;2024;Q1;Index;Makkah;98.58;2024-03
+Quarterly;2024;Q1;Index;Aseer;91.52;2024-03
+Quarterly;2024;Q1;Index;Tabouk;99.32;2024-03
+Quarterly;2024;Q2;Index;Al Qaseem;96.38;2024-06
+Quarterly;2024;Q2;Index;Tabouk;99.72;2024-06
+Quarterly;2024;Q2;Index;Northern Borders;100.61;2024-06
+Quarterly;2024;Q3;Index;Index Numbers;102.56;2024-09
+Quarterly;2024;Q3;Index;Madinah;99.6;2024-09
+Quarterly;2024;Q3;Index;Najran;97.78;2024-09
+Quarterly;2024;Q4;Index;Tabouk;102.22;2024-12
+Quarterly;2024;Q4;Index;Northern Borders;101.26;2024-12
+Quarterly;2024;Q4;Index;Jazan;99.31;2024-12
+Quarterly;2024;Q4;Index;Najran;102.78;2024-12
+Quarterly;2024;Q4;Index;Al Jouf;93.48;2024-12
+Quarterly;2025;Q1;Index;Al Jouf;96.98;2025-03
+Quarterly;2025;Q2;Index;Al Baha;80.16;2025-06
+Quarterly;2025;Q3;Index;Najran;101.39;2025-09
+Quarterly;2025;Q4;Index;Tabouk;103.37;2025-12
+Quarterly;2025;Q4;Index;Najran;100.55;2025-12
+Quarterly;2026;Q1;Index;Hail;95.39;2026-03
+Quarterly;2026;Q1;Index;Jazan;100.26;2026-03
+Quarterly;2026;Q1;Index;Al Baha;76.14;2026-03
+Quarterly;2021;Q2;QoQ;Index Numbers;0.8;2021-06
+Quarterly;2021;Q2;QoQ;Madinah;-0.8;2021-06
+Quarterly;2021;Q2;QoQ;Al Qaseem;-4.3;2021-06
+Quarterly;2021;Q2;QoQ;Eastern Province;3.8;2021-06
+Quarterly;2021;Q2;QoQ;Aseer;0.9;2021-06
+Quarterly;2021;Q2;QoQ;Najran;0.1;2021-06
+Quarterly;2021;Q3;QoQ;Makkah;2.7;2021-09
+Quarterly;2021;Q3;QoQ;Al Qaseem;2.8;2021-09
+Quarterly;2021;Q3;QoQ;Tabouk;2.0;2021-09
+Quarterly;2021;Q4;QoQ;Madinah;2.9;2021-12
+Quarterly;2022;Q1;QoQ;Al Qaseem;4.2;2022-03
+Quarterly;2022;Q1;QoQ;Hail;-1.0;2022-03
+Quarterly;2022;Q2;QoQ;Makkah;4.4;2022-06
+Quarterly;2022;Q2;QoQ;Jazan;3.4;2022-06
+Quarterly;2022;Q3;QoQ;Index Numbers;2.0;2022-09
+Quarterly;2022;Q3;QoQ;Al Qaseem;5.0;2022-09
+Quarterly;2022;Q3;QoQ;Jazan;0.6;2022-09
+Quarterly;2022;Q4;QoQ;Index Numbers;-0.3;2022-12
+Quarterly;2022;Q4;QoQ;Makkah;-2.1;2022-12
+Quarterly;2022;Q4;QoQ;Madinah;0.7;2022-12
+Quarterly;2022;Q4;QoQ;Hail;3.0;2022-12
+Quarterly;2022;Q4;QoQ;Northern Borders;-1.8;2022-12
+Quarterly;2022;Q4;QoQ;Jazan;0.3;2022-12
+Quarterly;2022;Q4;QoQ;Al Baha;9.4;2022-12
+Quarterly;2022;Q4;QoQ;Al Jouf;-2.8;2022-12
+Quarterly;2023;Q1;QoQ;Riyadh;2.1;2023-03
+Quarterly;2023;Q1;QoQ;Najran;8.0;2023-03
+Quarterly;2023;Q2;QoQ;Makkah;0.0;2023-06
+Quarterly;2023;Q2;QoQ;Al Qaseem;-3.3;2023-06
+Quarterly;2023;Q2;QoQ;Eastern Province;-0.9;2023-06
+Quarterly;2023;Q3;QoQ;Riyadh;-0.3;2023-09
+Quarterly;2023;Q3;QoQ;Makkah;-0.7;2023-09
+Quarterly;2023;Q3;QoQ;Tabouk;4.0;2023-09
+Quarterly;2023;Q4;QoQ;Aseer;-6.2;2023-12
+Quarterly;2023;Q4;QoQ;Northern Borders;2.4;2023-12
+Quarterly;2024;Q1;QoQ;Makkah;-0.2;2024-03
+Quarterly;2024;Q1;QoQ;Madinah;2.8;2024-03
+Quarterly;2024;Q1;QoQ;Eastern Province;-1.6;2024-03
+Quarterly;2024;Q1;QoQ;Tabouk;-1.8;2024-03
+Quarterly;2024;Q3;QoQ;Jazan;-1.8;2024-09
+Quarterly;2024;Q4;QoQ;Riyadh;3.2;2024-12
+Quarterly;2024;Q4;QoQ;Tabouk;2.1;2024-12
+Quarterly;2024;Q4;QoQ;Al Baha;4.2;2024-12
+Quarterly;2025;Q1;QoQ;Madinah;0.5;2025-03
+Quarterly;2025;Q1;QoQ;Al Qaseem;1.3;2025-03
+Quarterly;2025;Q1;QoQ;Aseer;-1.2;2025-03
+Quarterly;2025;Q1;QoQ;Najran;-0.7;2025-03
+Quarterly;2025;Q2;QoQ;Index Numbers;0.1;2025-06
+Quarterly;2025;Q2;QoQ;Najran;-1.4;2025-06
+Quarterly;2025;Q3;QoQ;Riyadh;-0.4;2025-09
+Quarterly;2025;Q3;QoQ;Madinah;-4.6;2025-09
+Quarterly;2025;Q3;QoQ;Hail;-8.7;2025-09
+Quarterly;2025;Q3;QoQ;Northern Borders;-5.4;2025-09
+Quarterly;2025;Q3;QoQ;Al Jouf;-3.4;2025-09
+Quarterly;2025;Q4;QoQ;Al Baha;0.4;2025-12
+Quarterly;2026;Q1;QoQ;Madinah;1.7;2026-03
+Quarterly;2026;Q1;QoQ;Eastern Province;0.1;2026-03
+Quarterly;2026;Q1;QoQ;Al Jouf;1.9;2026-03
+Quarterly;2022;Q1;YoY;Riyadh;17.6;2022-03
+Quarterly;2022;Q1;YoY;Northern Borders;6.9;2022-03
+Quarterly;2022;Q1;YoY;Al Baha;-8.8;2022-03
+Quarterly;2022;Q1;YoY;Al Jouf;1.4;2022-03
+Quarterly;2022;Q2;YoY;Aseer;7.0;2022-06
+Quarterly;2022;Q2;YoY;Hail;8.5;2022-06
+Quarterly;2022;Q2;YoY;Jazan;-1.2;2022-06
+Quarterly;2022;Q4;YoY;Riyadh;13.5;2022-12
+Quarterly;2022;Q4;YoY;Hail;4.6;2022-12
+Quarterly;2022;Q4;YoY;Najran;3.3;2022-12
+Quarterly;2023;Q1;YoY;Index Numbers;8.7;2023-03
+Quarterly;2023;Q1;YoY;Riyadh;11.6;2023-03
+Quarterly;2023;Q1;YoY;Aseer;7.7;2023-03
+Quarterly;2023;Q1;YoY;Jazan;6.6;2023-03
+Quarterly;2023;Q1;YoY;Al Baha;-2.7;2023-03
+Quarterly;2023;Q2;YoY;Al Baha;8.4;2023-06
+Quarterly;2023;Q2;YoY;Al Jouf;10.2;2023-06
+Quarterly;2023;Q3;YoY;Makkah;-2.7;2023-09
+Quarterly;2023;Q3;YoY;Madinah;3.2;2023-09
+Quarterly;2023;Q3;YoY;Jazan;4.3;2023-09
+Quarterly;2023;Q3;YoY;Najran;10.7;2023-09
+Quarterly;2023;Q4;YoY;Tabouk;9.7;2023-12
+Quarterly;2023;Q4;YoY;Al Baha;-2.3;2023-12
+Quarterly;2024;Q1;YoY;Al Qaseem;-4.8;2024-03
+Quarterly;2024;Q1;YoY;Tabouk;3.9;2024-03
+Quarterly;2024;Q2;YoY;Tabouk;0.0;2024-06
+Quarterly;2024;Q2;YoY;Najran;-4.7;2024-06
+Quarterly;2024;Q2;YoY;Al Jouf;-6.9;2024-06
+Quarterly;2024;Q3;YoY;Aseer;-9.3;2024-09
+Quarterly;2024;Q3;YoY;Northern Borders;1.7;2024-09
+Quarterly;2024;Q4;YoY;Riyadh;10.2;2024-12
+Quarterly;2024;Q4;YoY;Hail;0.7;2024-12
+Quarterly;2024;Q4;YoY;Jazan;-1.6;2024-12
+Quarterly;2024;Q4;YoY;Najran;4.6;2024-12
+Quarterly;2025;Q1;YoY;Makkah;1.5;2025-03
+Quarterly;2025;Q2;YoY;Makkah;3.9;2025-06
+Quarterly;2025;Q2;YoY;Northern Borders;-1.3;2025-06
+Quarterly;2025;Q2;YoY;Al Baha;-1.7;2025-06
+Quarterly;2025;Q3;YoY;Riyadh;1.0;2025-09
+Quarterly;2025;Q3;YoY;Makkah;1.9;2025-09
+Quarterly;2025;Q3;YoY;Tabouk;3.4;2025-09
+Quarterly;2025;Q4;YoY;Riyadh;-3.0;2025-12
+Quarterly;2025;Q4;YoY;Al Qaseem;-2.7;2025-12
+Quarterly;2025;Q4;YoY;Eastern Province;4.0;2025-12
+Quarterly;2025;Q4;YoY;Aseer;-2.5;2025-12
+Quarterly;2025;Q4;YoY;Al Jouf;0.4;2025-12
+Quarterly;2026;Q1;YoY;Tabouk;1.5;2026-03
+Quarterly;2026;Q1;YoY;Jazan;-1.4;2026-03
+Quarterly;2026;Q1;YoY;Najran;3.5;2026-03
+Annually;2021;Annual average;Index;Riyadh;78.19;2021-01
+Annually;2021;Annual average;Index;Aseer;91.38;2021-01
+Annually;2021;Annual average;Index;Hail;93.92;2021-01
+Annually;2022;Annual average;Index;Al Qaseem;99.82;2022-01
+Annually;2022;Annual average;Index;Aseer;96.35;2022-01
+Annually;2023;Annual average;Index;Index Numbers;100.0;2023-01
+Annually;2023;Annual average;Index;Jazan;100.0;2023-01
+Annually;2023;Annual average;Index;Najran;100.0;2023-01
+Annually;2024;Annual average;Index;Aseer;91.25;2024-01
+Annually;2024;Annual average;Index;Najran;99.33;2024-01
+Annually;2025;Annual average;Index;Riyadh;111.74;2025-01
+Annually;2025;Annual average;Index;Makkah;100.81;2025-01
+Annually;2025;Annual average;Index;Hail;98.33;2025-01
+Annually;2025;Annual average;Index;Al Baha;80.37;2025-01
+Annually;2025;Annual average;Index;Al Jouf;95.33;2025-01
+Annually;2022;Annual average;YoY;Riyadh;17.7;2022-01
+Annually;2022;Annual average;YoY;Aseer;5.4;2022-01
+Annually;2022;Annual average;YoY;Jazan;0.5;2022-01
+Annually;2023;Annual average;YoY;Riyadh;8.6;2023-01
+Annually;2023;Annual average;YoY;Tabouk;9.3;2023-01
+Annually;2024;Annual average;YoY;Madinah;-0.8;2024-01
+Annually;2025;Annual average;YoY;Index Numbers;2.0;2025-01
+Annually;2025;Annual average;YoY;Riyadh;2.9;2025-01
+Annually;2025;Annual average;YoY;Makkah;2.4;2025-01
+Annually;2025;Annual average;YoY;Hail;-2.5;2025-01
+Annually;2025;Annual average;YoY;Jazan;-0.8;2025-01
+Annually;2025;Annual average;YoY;Al Jouf;0.7;2025-01
+Quarterly;2021;Q1;Index;Madinah;89.15;2021-03
+Quarterly;2021;Q1;Index;Hail;91.63;2021-03
+Quarterly;2021;Q1;Index;Northern Borders;91.89;2021-03
+Quarterly;2021;Q1;Index;Jazan;95.42;2021-03
+Quarterly;2021;Q1;Index;Al Baha;114.65;2021-03
+Quarterly;2021;Q2;Index;Madinah;88.45;2021-06
+Quarterly;2021;Q2;Index;Northern Borders;90.41;2021-06
+Quarterly;2021;Q3;Index;Jazan;94.51;2021-09
+Quarterly;2021;Q3;Index;Najran;89.2;2021-09
+Quarterly;2021;Q3;Index;Al Jouf;98.28;2021-09
+Quarterly;2022;Q1;Index;Eastern Province;98.87;2022-03
+Quarterly;2022;Q1;Index;Aseer;94.93;2022-03
+Quarterly;2022;Q1;Index;Tabouk;90.11;2022-03
+Quarterly;2022;Q1;Index;Northern Borders;98.22;2022-03
+Quarterly;2022;Q1;Index;Najran;85.64;2022-03
+Quarterly;2022;Q1;Index;Al Jouf;91.82;2022-03
+Quarterly;2022;Q2;Index;Riyadh;91.89;2022-06
+Quarterly;2022;Q2;Index;Aseer;95.51;2022-06
+Quarterly;2022;Q2;Index;Jazan;96.83;2022-06
+Quarterly;2022;Q2;Index;Najran;87.16;2022-06
+Quarterly;2022;Q3;Index;Riyadh;93.32;2022-09
+Quarterly;2022;Q3;Index;Makkah;102.66;2022-09
+Quarterly;2022;Q3;Index;Northern Borders;103.55;2022-09
+Quarterly;2022;Q4;Index;Al Qaseem;100.77;2022-12
+Quarterly;2022;Q4;Index;Jazan;97.67;2022-12
+Quarterly;2023;Q1;Index;Index Numbers;99.22;2023-03
+Quarterly;2023;Q1;Index;Madinah;99.21;2023-03
+Quarterly;2023;Q1;Index;Aseer;102.27;2023-03
+Quarterly;2023;Q2;Index;Aseer;100.56;2023-06
+Quarterly;2023;Q2;Index;Northern Borders;98.44;2023-06
+Quarterly;2023;Q2;Index;Al Baha;105.86;2023-06
+Quarterly;2023;Q3;Index;Al Qaseem;100.62;2023-09
+Quarterly;2023;Q4;Index;Eastern Province;98.37;2023-12
+Quarterly;2023;Q4;Index;Najran;98.28;2023-12
+Quarterly;2024;Q1;Index;Riyadh;103.82;2024-03
+Quarterly;2024;Q1;Index;Al Qaseem;96.8;2024-03
+Quarterly;2024;Q1;Index;Hail;99.55;2024-03
+Quarterly;2024;Q2;Index;Madinah;99.24;2024-06
+Quarterly;2024;Q2;Index;Eastern Province;94.18;2024-06
+Quarterly;2024;Q2;Index;Jazan;102.07;2024-06
+Quarterly;2024;Q2;Index;Al Baha;81.51;2024-06
+Quarterly;2024;Q3;Index;Northern Borders;101.73;2024-09
+Quarterly;2024;Q3;Index;Al Baha;79.73;2024-09
+Quarterly;2024;Q3;Index;Al Jouf;98.05;2024-09
+Quarterly;2024;Q4;Index;Index Numbers;104.18;2024-12
+Quarterly;2024;Q4;Index;Madinah;98.02;2024-12
+Quarterly;2025;Q1;Index;Al Qaseem;96.86;2025-03
+Quarterly;2025;Q1;Index;Jazan;101.71;2025-03
+Quarterly;2025;Q2;Index;Riyadh;111.35;2025-06
+Quarterly;2025;Q2;Index;Eastern Province;98.17;2025-06
+Quarterly;2025;Q2;Index;Aseer;89.04;2025-06
+Quarterly;2025;Q2;Index;Jazan;99.18;2025-06
+Quarterly;2025;Q2;Index;Najran;100.61;2025-06
+Quarterly;2025;Q3;Index;Aseer;86.53;2025-09
+Quarterly;2025;Q4;Index;Riyadh;109.88;2025-12
+Quarterly;2026;Q1;Index;Madinah;93.6;2026-03
+Quarterly;2026;Q1;Index;Al Qaseem;91.93;2026-03
+Quarterly;2026;Q1;Index;Aseer;88.51;2026-03
+Quarterly;2026;Q1;Index;Tabouk;101.96;2026-03
+Quarterly;2021;Q2;QoQ;Al Baha;7.8;2021-06
+Quarterly;2021;Q2;QoQ;Al Jouf;4.5;2021-06
+Quarterly;2021;Q4;QoQ;Jazan;1.2;2021-12
+Quarterly;2021;Q4;QoQ;Al Baha;2.9;2021-12
+Quarterly;2022;Q1;QoQ;Najran;-2.8;2022-03
+Quarterly;2022;Q1;QoQ;Al Jouf;-6.2;2022-03
+Quarterly;2022;Q2;QoQ;Eastern Province;6.1;2022-06
+Quarterly;2022;Q2;QoQ;Aseer;0.6;2022-06
+Quarterly;2022;Q2;QoQ;Al Baha;-6.6;2022-06
+Quarterly;2022;Q3;QoQ;Riyadh;1.6;2022-09
+Quarterly;2022;Q3;QoQ;Aseer;1.1;2022-09
+Quarterly;2022;Q3;QoQ;Hail;-0.3;2022-09
+Quarterly;2022;Q3;QoQ;Northern Borders;6.8;2022-09
+Quarterly;2022;Q3;QoQ;Al Baha;-4.4;2022-09
+Quarterly;2022;Q3;QoQ;Al Jouf;3.1;2022-09
+Quarterly;2022;Q4;QoQ;Riyadh;2.5;2022-12
+Quarterly;2022;Q4;QoQ;Eastern Province;-6.0;2022-12
+Quarterly;2023;Q1;QoQ;Eastern Province;4.8;2023-03
+Quarterly;2023;Q1;QoQ;Tabouk;3.8;2023-03
+Quarterly;2023;Q2;QoQ;Riyadh;2.4;2023-06
+Quarterly;2023;Q2;QoQ;Tabouk;4.3;2023-06
+Quarterly;2023;Q2;QoQ;Najran;7.0;2023-06
+Quarterly;2023;Q3;QoQ;Eastern Province;0.2;2023-09
+Quarterly;2023;Q3;QoQ;Aseer;1.2;2023-09
+Quarterly;2023;Q4;QoQ;Riyadh;3.2;2023-12
+Quarterly;2024;Q1;QoQ;Aseer;-4.2;2024-03
+Quarterly;2024;Q1;QoQ;Al Baha;-17.7;2024-03
+Quarterly;2024;Q2;QoQ;Makkah;-0.4;2024-06
+Quarterly;2024;Q2;QoQ;Al Qaseem;-0.4;2024-06
+Quarterly;2024;Q2;QoQ;Tabouk;0.4;2024-06
+Quarterly;2024;Q2;QoQ;Najran;3.6;2024-06
+Quarterly;2024;Q4;QoQ;Index Numbers;1.6;2024-12
+Quarterly;2024;Q4;QoQ;Makkah;-0.3;2024-12
+Quarterly;2024;Q4;QoQ;Eastern Province;2.0;2024-12
+Quarterly;2024;Q4;QoQ;Northern Borders;-0.5;2024-12
+Quarterly;2025;Q1;QoQ;Hail;0.6;2025-03
+Quarterly;2025;Q2;QoQ;Aseer;1.7;2025-06
+Quarterly;2025;Q3;QoQ;Makkah;-1.6;2025-09
+Quarterly;2025;Q3;QoQ;Jazan;1.5;2025-09
+Quarterly;2025;Q4;QoQ;Riyadh;-0.9;2025-12
+Quarterly;2025;Q4;QoQ;Madinah;0.4;2025-12
+Quarterly;2026;Q1;QoQ;Al Qaseem;-1.2;2026-03
+Quarterly;2026;Q1;QoQ;Tabouk;-1.4;2026-03
+Quarterly;2026;Q1;QoQ;Hail;1.7;2026-03
+Quarterly;2026;Q1;QoQ;Al Baha;-3.5;2026-03
+Quarterly;2022;Q2;YoY;Riyadh;22.7;2022-06
+Quarterly;2022;Q2;YoY;Tabouk;0.7;2022-06
+Quarterly;2022;Q2;YoY;Northern Borders;7.2;2022-06
+Quarterly;2022;Q2;YoY;Najran;0.7;2022-06
+Quarterly;2022;Q3;YoY;Al Qaseem;14.8;2022-09
+Quarterly;2022;Q3;YoY;Aseer;3.0;2022-09
+Quarterly;2022;Q3;YoY;Tabouk;2.4;2022-09
+Quarterly;2022;Q3;YoY;Hail;3.5;2022-09
+Quarterly;2022;Q3;YoY;Jazan;3.0;2022-09
+Quarterly;2022;Q4;YoY;Aseer;4.5;2022-12
+Quarterly;2022;Q4;YoY;Al Jouf;-2.6;2022-12
+Quarterly;2023;Q1;YoY;Makkah;8.8;2023-03
+Quarterly;2023;Q1;YoY;Madinah;3.4;2023-03
+Quarterly;2023;Q1;YoY;Hail;5.8;2023-03
+Quarterly;2023;Q1;YoY;Najran;14.8;2023-03
+Quarterly;2023;Q1;YoY;Al Jouf;9.6;2023-03
+Quarterly;2023;Q2;YoY;Index Numbers;4.9;2023-06
+Quarterly;2023;Q2;YoY;Makkah;4.2;2023-06
+Quarterly;2023;Q2;YoY;Al Qaseem;-0.6;2023-06
+Quarterly;2023;Q2;YoY;Northern Borders;1.5;2023-06
+Quarterly;2023;Q2;YoY;Jazan;0.9;2023-06
+Quarterly;2023;Q3;YoY;Al Qaseem;-3.3;2023-09
+Quarterly;2023;Q3;YoY;Eastern Province;-2.2;2023-09
+Quarterly;2023;Q4;YoY;Riyadh;7.5;2023-12
+Quarterly;2023;Q4;YoY;Al Qaseem;-1.4;2023-12
+Quarterly;2023;Q4;YoY;Eastern Province;2.0;2023-12
+Quarterly;2023;Q4;YoY;Aseer;-2.9;2023-12
+Quarterly;2024;Q1;YoY;Index Numbers;1.4;2024-03
+Quarterly;2024;Q1;YoY;Aseer;-10.5;2024-03
+Quarterly;2024;Q1;YoY;Hail;-2.2;2024-03
+Quarterly;2024;Q2;YoY;Eastern Province;-6.0;2024-06
+Quarterly;2024;Q3;YoY;Jazan;-1.3;2024-09
+Quarterly;2024;Q3;YoY;Al Baha;-14.3;2024-09
+Quarterly;2024;Q4;YoY;Madinah;0.8;2024-12
+Quarterly;2024;Q4;YoY;Al Jouf;-4.1;2024-12
+Quarterly;2025;Q1;YoY;Riyadh;10.7;2025-03
+Quarterly;2025;Q1;YoY;Madinah;-1.4;2025-03
+Quarterly;2025;Q1;YoY;Aseer;-4.4;2025-03
+Quarterly;2025;Q1;YoY;Tabouk;1.2;2025-03
+Quarterly;2025;Q1;YoY;Al Baha;2.1;2025-03
+Quarterly;2025;Q2;YoY;Aseer;-3.9;2025-06
+Quarterly;2025;Q2;YoY;Najran;0.4;2025-06
+Quarterly;2025;Q3;YoY;Madinah;-8.0;2025-09
+Quarterly;2025;Q3;YoY;Al Qaseem;-5.1;2025-09
+Quarterly;2025;Q3;YoY;Eastern Province;6.1;2025-09
+Quarterly;2025;Q3;YoY;Aseer;-6.3;2025-09
+Quarterly;2025;Q3;YoY;Al Jouf;-4.5;2025-09
+Quarterly;2025;Q4;YoY;Northern Borders;-6.8;2025-12
+Quarterly;2025;Q4;YoY;Najran;-2.2;2025-12
+Quarterly;2026;Q1;YoY;Riyadh;-4.4;2026-03
+Quarterly;2026;Q1;YoY;Makkah;-0.7;2026-03
+Quarterly;2026;Q1;YoY;Madinah;-5.0;2026-03
+Quarterly;2026;Q1;YoY;Hail;-8.0;2026-03
+Annually;2021;Annual average;Index;Tabouk;90.6;2021-01
+Annually;2022;Annual average;Index;Madinah;97.7;2022-01
+Annually;2022;Annual average;Index;Hail;99.0;2022-01
+Annually;2023;Annual average;Index;Riyadh;100.0;2023-01
+Annually;2023;Annual average;Index;Madinah;100.0;2023-01
+Annually;2023;Annual average;Index;Al Qaseem;100.0;2023-01
+Annually;2023;Annual average;Index;Hail;100.0;2023-01
+Annually;2023;Annual average;Index;Al Baha;100.0;2023-01
+Annually;2024;Annual average;Index;Al Jouf;94.63;2024-01
+Annually;2025;Annual average;Index;Index Numbers;104.32;2025-01
+Annually;2025;Annual average;Index;Al Qaseem;94.97;2025-01
+Annually;2022;Annual average;YoY;Eastern Province;6.2;2022-01
+Annually;2022;Annual average;YoY;Tabouk;1.0;2022-01
+Annually;2022;Annual average;YoY;Al Jouf;-0.2;2022-01
+Annually;2023;Annual average;YoY;Eastern Province;-0.7;2023-01
+Annually;2023;Annual average;YoY;Jazan;3.8;2023-01
+Annually;2024;Annual average;YoY;Index Numbers;2.3;2024-01
+Annually;2024;Annual average;YoY;Eastern Province;-5.8;2024-01
+Annually;2024;Annual average;YoY;Tabouk;0.3;2024-01
+Annually;2024;Annual average;YoY;Jazan;1.3;2024-01
+Annually;2025;Annual average;YoY;Madinah;-4.7;2025-01
+Annually;2025;Annual average;YoY;Northern Borders;-2.0;2025-01
+Annually;2025;Annual average;YoY;Najran;1.8;2025-01
+Quarterly;2021;Q1;Index;Index Numbers;81.37;2021-03
+Quarterly;2021;Q1;Index;Riyadh;74.4;2021-03
+Quarterly;2021;Q2;Index;Al Qaseem;88.16;2021-06
+Quarterly;2021;Q2;Index;Jazan;98.03;2021-06
+Quarterly;2021;Q2;Index;Al Jouf;94.63;2021-06
+Quarterly;2021;Q3;Index;Index Numbers;86.2;2021-09
+Quarterly;2021;Q3;Index;Makkah;89.05;2021-09
+Quarterly;2021;Q3;Index;Al Baha;111.57;2021-09
+Quarterly;2021;Q4;Index;Eastern Province;98.85;2021-12
+Quarterly;2021;Q4;Index;Al Baha;114.85;2021-12
+Quarterly;2022;Q1;Index;Jazan;93.61;2022-03
+Quarterly;2022;Q1;Index;Al Baha;104.55;2022-03
+Quarterly;2022;Q2;Index;Index Numbers;95.56;2022-06
+Quarterly;2022;Q2;Index;Eastern Province;104.9;2022-06
+Quarterly;2022;Q2;Index;Hail;99.18;2022-06
+Quarterly;2022;Q3;Index;Al Qaseem;104.0;2022-09
+Quarterly;2022;Q3;Index;Eastern Province;102.67;2022-09
+Quarterly;2022;Q3;Index;Aseer;96.6;2022-09
+Quarterly;2022;Q3;Index;Hail;98.85;2022-09
+Quarterly;2022;Q4;Index;Riyadh;95.65;2022-12
+Quarterly;2022;Q4;Index;Madinah;98.35;2022-12
+Quarterly;2022;Q4;Index;Eastern Province;96.48;2022-12
+Quarterly;2023;Q1;Index;Makkah;100.68;2023-03
+Quarterly;2023;Q1;Index;Jazan;99.76;2023-03
+Quarterly;2023;Q1;Index;Najran;98.29;2023-03
+Quarterly;2023;Q1;Index;Al Baha;101.77;2023-03
+Quarterly;2023;Q1;Index;Al Jouf;100.62;2023-03
+Quarterly;2023;Q2;Index;Eastern Province;100.16;2023-06
+Quarterly;2023;Q2;Index;Tabouk;99.74;2023-06
+Quarterly;2023;Q2;Index;Hail;99.64;2023-06
+Quarterly;2023;Q2;Index;Al Jouf;104.8;2023-06
+Quarterly;2023;Q3;Index;Index Numbers;99.98;2023-09
+Quarterly;2023;Q3;Index;Riyadh;99.66;2023-09
+Quarterly;2023;Q3;Index;Aseer;101.79;2023-09
+Quarterly;2023;Q3;Index;Northern Borders;100.06;2023-09
+Quarterly;2023;Q3;Index;Jazan;101.6;2023-09
+Quarterly;2023;Q4;Index;Tabouk;101.09;2023-12
+Quarterly;2023;Q4;Index;Hail;102.27;2023-12
+Quarterly;2023;Q4;Index;Jazan;100.95;2023-12
+Quarterly;2023;Q4;Index;Al Baha;99.73;2023-12
+Quarterly;2024;Q1;Index;Index Numbers;100.59;2024-03
+Quarterly;2024;Q1;Index;Eastern Province;96.79;2024-03
+Quarterly;2024;Q1;Index;Northern Borders;98.48;2024-03
+Quarterly;2024;Q1;Index;Najran;96.69;2024-03
+Quarterly;2024;Q2;Index;Makkah;98.22;2024-06
+Quarterly;2024;Q2;Index;Najran;100.2;2024-06
+Quarterly;2024;Q2;Index;Al Jouf;97.62;2024-06
+Quarterly;2024;Q3;Index;Makkah;98.55;2024-09
+Quarterly;2024;Q3;Index;Aseer;92.37;2024-09
+Quarterly;2024;Q3;Index;Tabouk;100.14;2024-09
+Quarterly;2024;Q3;Index;Jazan;100.24;2024-09
+Quarterly;2024;Q4;Index;Makkah;98.23;2024-12
+Quarterly;2024;Q4;Index;Al Qaseem;95.62;2024-12
+Quarterly;2025;Q1;Index;Makkah;100.08;2025-03
+Quarterly;2025;Q1;Index;Tabouk;100.48;2025-03
+Quarterly;2025;Q1;Index;Najran;102.06;2025-03
+Quarterly;2025;Q2;Index;Hail;102.65;2025-06
+Quarterly;2025;Q3;Index;Index Numbers;103.88;2025-09
+Quarterly;2025;Q3;Index;Riyadh;110.91;2025-09
+Quarterly;2025;Q3;Index;Makkah;100.43;2025-09
+Quarterly;2025;Q3;Index;Madinah;91.61;2025-09
+Quarterly;2025;Q3;Index;Al Qaseem;92.66;2025-09
+Quarterly;2025;Q4;Index;Index Numbers;103.48;2025-12
+Quarterly;2025;Q4;Index;Aseer;86.31;2025-12
+Quarterly;2025;Q4;Index;Hail;93.8;2025-12
+Quarterly;2025;Q4;Index;Northern Borders;94.41;2025-12
+Quarterly;2026;Q1;Index;Index Numbers;103.29;2026-03
+Quarterly;2026;Q1;Index;Eastern Province;97.75;2026-03
+Quarterly;2026;Q1;Index;Northern Borders;99.98;2026-03
+Quarterly;2026;Q1;Index;Al Jouf;95.62;2026-03
+Quarterly;2021;Q3;QoQ;Index Numbers;5.0;2021-09
+Quarterly;2021;Q3;QoQ;Aseer;5.1;2021-09
+Quarterly;2021;Q3;QoQ;Hail;4.5;2021-09
+Quarterly;2021;Q3;QoQ;Al Baha;-9.7;2021-09
+Quarterly;2021;Q4;QoQ;Al Qaseem;1.4;2021-12
+Quarterly;2021;Q4;QoQ;Hail;1.8;2021-12
+Quarterly;2022;Q1;QoQ;Makkah;2.2;2022-03
+Quarterly;2022;Q1;QoQ;Tabouk;0.0;2022-03
+Quarterly;2022;Q1;QoQ;Northern Borders;6.3;2022-03
+Quarterly;2022;Q2;QoQ;Index Numbers;4.7;2022-06
+Quarterly;2022;Q2;QoQ;Al Qaseem;3.5;2022-06
+Quarterly;2022;Q2;QoQ;Tabouk;0.2;2022-06
+Quarterly;2022;Q2;QoQ;Northern Borders;-1.3;2022-06
+Quarterly;2022;Q2;QoQ;Al Jouf;3.6;2022-06
+Quarterly;2022;Q3;QoQ;Eastern Province;-2.1;2022-09
+Quarterly;2022;Q3;QoQ;Najran;2.0;2022-09
+Quarterly;2022;Q4;QoQ;Al Qaseem;-3.1;2022-12
+Quarterly;2022;Q4;QoQ;Najran;2.3;2022-12
+Quarterly;2023;Q1;QoQ;Aseer;3.9;2023-03
+Quarterly;2023;Q1;QoQ;Al Baha;-0.3;2023-03
+Quarterly;2023;Q2;QoQ;Index Numbers;1.0;2023-06
+Quarterly;2023;Q2;QoQ;Madinah;3.7;2023-06
+Quarterly;2023;Q2;QoQ;Aseer;-1.7;2023-06
+Quarterly;2023;Q2;QoQ;Al Baha;4.0;2023-06
+Quarterly;2023;Q2;QoQ;Al Jouf;4.2;2023-06
+Quarterly;2023;Q3;QoQ;Al Qaseem;2.3;2023-09
+Quarterly;2023;Q3;QoQ;Hail;-3.3;2023-09
+Quarterly;2023;Q3;QoQ;Northern Borders;1.6;2023-09
+Quarterly;2023;Q3;QoQ;Jazan;4.0;2023-09
+Quarterly;2023;Q4;QoQ;Makkah;-1.2;2023-12
+Quarterly;2023;Q4;QoQ;Eastern Province;-2.0;2023-12
+Quarterly;2024;Q1;QoQ;Hail;-2.7;2024-03
+Quarterly;2024;Q1;QoQ;Najran;-1.6;2024-03
+Quarterly;2024;Q1;QoQ;Al Jouf;-8.1;2024-03
+Quarterly;2024;Q2;QoQ;Madinah;-0.7;2024-06
+Quarterly;2024;Q2;QoQ;Eastern Province;-2.7;2024-06
+Quarterly;2024;Q2;QoQ;Hail;0.2;2024-06
+Quarterly;2024;Q2;QoQ;Al Baha;-0.7;2024-06
+Quarterly;2024;Q3;QoQ;Riyadh;2.2;2024-09
+Quarterly;2024;Q3;QoQ;Makkah;0.3;2024-09
+Quarterly;2024;Q3;QoQ;Eastern Province;-2.3;2024-09
+Quarterly;2024;Q3;QoQ;Tabouk;0.4;2024-09
+Quarterly;2024;Q3;QoQ;Northern Borders;1.1;2024-09
+Quarterly;2024;Q3;QoQ;Najran;-2.4;2024-09
+Quarterly;2024;Q3;QoQ;Al Jouf;0.4;2024-09
+Quarterly;2024;Q4;QoQ;Madinah;-1.6;2024-12
+Quarterly;2024;Q4;QoQ;Aseer;-4.1;2024-12
+Quarterly;2025;Q1;QoQ;Eastern Province;-2.6;2025-03
+Quarterly;2025;Q1;QoQ;Al Baha;0.9;2025-03
+Quarterly;2025;Q1;QoQ;Al Jouf;3.7;2025-03
+Quarterly;2025;Q2;QoQ;Makkah;2.0;2025-06
+Quarterly;2025;Q2;QoQ;Eastern Province;7.3;2025-06
+Quarterly;2025;Q2;QoQ;Northern Borders;-7.2;2025-06
+Quarterly;2025;Q2;QoQ;Al Baha;-4.4;2025-06
+Quarterly;2025;Q3;QoQ;Index Numbers;-1.1;2025-09
+Quarterly;2025;Q3;QoQ;Aseer;-2.8;2025-09
+Quarterly;2025;Q4;QoQ;Al Qaseem;0.4;2025-12
+Quarterly;2025;Q4;QoQ;Eastern Province;0.0;2025-12
+Quarterly;2025;Q4;QoQ;Hail;0.1;2025-12
+Quarterly;2025;Q4;QoQ;Jazan;-0.3;2025-12
+Quarterly;2025;Q4;QoQ;Najran;-0.8;2025-12
+Quarterly;2026;Q1;QoQ;Makkah;-1.3;2026-03
+Quarterly;2026;Q1;QoQ;Najran;5.0;2026-03
+Quarterly;2022;Q1;YoY;Madinah;7.6;2022-03
+Quarterly;2022;Q1;YoY;Al Qaseem;3.9;2022-03
+Quarterly;2022;Q1;YoY;Aseer;7.3;2022-03
+Quarterly;2022;Q1;YoY;Tabouk;-1.3;2022-03
+Quarterly;2022;Q1;YoY;Najran;-1.0;2022-03
+Quarterly;2022;Q2;YoY;Makkah;11.4;2022-06
+Quarterly;2022;Q2;YoY;Al Baha;-20.9;2022-06
+Quarterly;2022;Q2;YoY;Al Jouf;0.5;2022-06
+Quarterly;2022;Q3;YoY;Eastern Province;4.3;2022-09
+Quarterly;2022;Q3;YoY;Al Baha;-16.3;2022-09
+Quarterly;2022;Q4;YoY;Makkah;11.0;2022-12
+Quarterly;2022;Q4;YoY;Al Qaseem;9.7;2022-12
+Quarterly;2022;Q4;YoY;Al Baha;-11.1;2022-12
+Quarterly;2023;Q1;YoY;Tabouk;6.1;2023-03
+Quarterly;2023;Q2;YoY;Riyadh;8.7;2023-06
+Quarterly;2023;Q2;YoY;Hail;0.5;2023-06
+Quarterly;2023;Q3;YoY;Index Numbers;2.5;2023-09
+Quarterly;2023;Q3;YoY;Riyadh;6.8;2023-09
+Quarterly;2023;Q3;YoY;Aseer;5.4;2023-09
+Quarterly;2023;Q4;YoY;Northern Borders;0.8;2023-12
+Quarterly;2023;Q4;YoY;Najran;8.0;2023-12
+Quarterly;2024;Q1;YoY;Makkah;-2.1;2024-03
+Quarterly;2024;Q1;YoY;Eastern Province;-4.3;2024-03
+Quarterly;2024;Q1;YoY;Najran;-1.6;2024-03
+Quarterly;2024;Q2;YoY;Index Numbers;1.6;2024-06
+Quarterly;2024;Q2;YoY;Riyadh;7.6;2024-06
+Quarterly;2024;Q2;YoY;Aseer;-7.9;2024-06
+Quarterly;2024;Q2;YoY;Northern Borders;2.2;2024-06
+Quarterly;2024;Q2;YoY;Jazan;4.4;2024-06
+Quarterly;2024;Q2;YoY;Al Baha;-23.0;2024-06
+Quarterly;2024;Q3;YoY;Madinah;-1.2;2024-09
+Quarterly;2024;Q3;YoY;Al Qaseem;-3.0;2024-09
+Quarterly;2024;Q3;YoY;Eastern Province;-8.3;2024-09
+Quarterly;2024;Q3;YoY;Najran;-0.7;2024-09
+Quarterly;2024;Q3;YoY;Al Jouf;0.8;2024-09
+Quarterly;2024;Q4;YoY;Makkah;-0.5;2024-12
+Quarterly;2024;Q4;YoY;Tabouk;1.1;2024-12
+Quarterly;2024;Q4;YoY;Al Baha;-16.7;2024-12
+Quarterly;2025;Q1;YoY;Northern Borders;8.7;2025-03
+Quarterly;2025;Q1;YoY;Jazan;-2.0;2025-03
+Quarterly;2025;Q2;YoY;Al Qaseem;1.1;2025-06
+Quarterly;2025;Q2;YoY;Tabouk;4.7;2025-06
+Quarterly;2025;Q2;YoY;Hail;2.9;2025-06
+Quarterly;2025;Q3;YoY;Hail;-7.3;2025-09
+Quarterly;2025;Q3;YoY;Northern Borders;-7.7;2025-09
+Quarterly;2025;Q3;YoY;Jazan;0.5;2025-09
+Quarterly;2025;Q3;YoY;Najran;3.7;2025-09
+Quarterly;2025;Q4;YoY;Makkah;2.5;2025-12
+Quarterly;2025;Q4;YoY;Madinah;-6.1;2025-12
+Quarterly;2025;Q4;YoY;Jazan;1.1;2025-12
+Quarterly;2025;Q4;YoY;Al Baha;-5.0;2025-12
+Quarterly;2026;Q1;YoY;Index Numbers;-1.6;2026-03
+Quarterly;2026;Q1;YoY;Northern Borders;-6.6;2026-03
+Quarterly;2026;Q1;YoY;Al Jouf;-1.4;2026-03
+Annually;2021;Annual average;Index;Northern Borders;91.51;2021-01
+Annually;2021;Annual average;Index;Najran;87.59;2021-01
+Annually;2021;Annual average;Index;Al Jouf;95.29;2021-01
+Annually;2022;Annual average;Index;Index Numbers;95.36;2022-01
+Annually;2022;Annual average;Index;Northern Borders;100.06;2022-01
+Annually;2022;Annual average;Index;Jazan;96.36;2022-01
+Annually;2022;Annual average;Index;Najran;88.15;2022-01
+Annually;2022;Annual average;Index;Al Jouf;95.07;2022-01
+Annually;2024;Annual average;Index;Eastern Province;94.21;2024-01
+Annually;2024;Annual average;Index;Al Baha;81.6;2024-01
+Annually;2025;Annual average;Index;Northern Borders;98.53;2025-01
+Annually;2022;Annual average;YoY;Index Numbers;12.7;2022-01
+Annually;2022;Annual average;YoY;Al Qaseem;10.1;2022-01
+Annually;2023;Annual average;YoY;Hail;1.0;2023-01
+Annually;2024;Annual average;YoY;Hail;0.9;2024-01
+Annually;2024;Annual average;YoY;Northern Borders;0.5;2024-01
+Annually;2024;Annual average;YoY;Najran;-0.7;2024-01
+Annually;2024;Annual average;YoY;Al Baha;-18.4;2024-01
+Annually;2024;Annual average;YoY;Al Jouf;-5.4;2024-01
+Annually;2025;Annual average;YoY;Eastern Province;2.1;2025-01
+Annually;2025;Annual average;YoY;Aseer;-4.3;2025-01
+Annually;2025;Annual average;YoY;Tabouk;2.6;2025-01
+Quarterly;2021;Q1;Index;Al Qaseem;92.11;2021-03
+Quarterly;2021;Q1;Index;Eastern Province;89.34;2021-03
+Quarterly;2021;Q1;Index;Tabouk;91.34;2021-03
+Quarterly;2021;Q1;Index;Al Jouf;90.56;2021-03
+Quarterly;2021;Q2;Index;Najran;86.58;2021-06
+Quarterly;2021;Q3;Index;Riyadh;79.61;2021-09
+Quarterly;2021;Q3;Index;Eastern Province;98.43;2021-09
+Quarterly;2021;Q3;Index;Aseer;93.79;2021-09
+Quarterly;2021;Q4;Index;Madinah;95.67;2021-12
+Quarterly;2021;Q4;Index;Al Qaseem;91.84;2021-12
+Quarterly;2021;Q4;Index;Jazan;95.67;2021-12
+Quarterly;2022;Q1;Index;Riyadh;87.52;2022-03
+Quarterly;2022;Q1;Index;Hail;96.27;2022-03
+Quarterly;2022;Q2;Index;Tabouk;90.27;2022-06
+Quarterly;2022;Q2;Index;Al Baha;97.69;2022-06
+Quarterly;2022;Q3;Index;Najran;88.92;2022-09
+Quarterly;2022;Q4;Index;Makkah;100.54;2022-12
+Quarterly;2022;Q4;Index;Northern Borders;101.67;2022-12
+Quarterly;2022;Q4;Index;Al Jouf;95.36;2022-12
+Quarterly;2023;Q1;Index;Riyadh;97.63;2023-03
+Quarterly;2023;Q1;Index;Al Qaseem;101.71;2023-03
+Quarterly;2023;Q1;Index;Northern Borders;99.04;2023-03
+Quarterly;2023;Q2;Index;Index Numbers;100.22;2023-06
+Quarterly;2023;Q2;Index;Al Qaseem;98.39;2023-06
+Quarterly;2023;Q2;Index;Jazan;97.73;2023-06
+Quarterly;2023;Q3;Index;Makkah;99.92;2023-09
+Quarterly;2023;Q3;Index;Tabouk;103.71;2023-09
+Quarterly;2023;Q4;Index;Index Numbers;100.59;2023-12
+Quarterly;2023;Q4;Index;Madinah;97.23;2023-12
+Quarterly;2023;Q4;Index;Al Qaseem;99.32;2023-12
+Quarterly;2024;Q1;Index;Madinah;99.92;2024-03
+Quarterly;2024;Q1;Index;Al Jouf;89.64;2024-03
+Quarterly;2024;Q2;Index;Riyadh;107.53;2024-06
+Quarterly;2024;Q2;Index;Aseer;92.62;2024-06
+Quarterly;2024;Q3;Index;Al Qaseem;97.61;2024-09
+Quarterly;2024;Q4;Index;Riyadh;113.33;2024-12
+Quarterly;2024;Q4;Index;Eastern Province;93.89;2024-12
+Quarterly;2024;Q4;Index;Aseer;88.55;2024-12
+Quarterly;2025;Q1;Index;Eastern Province;91.45;2025-03
+Quarterly;2025;Q1;Index;Hail;103.65;2025-03
+Quarterly;2025;Q1;Index;Al Baha;83.86;2025-03
+Quarterly;2025;Q2;Index;Makkah;102.07;2025-06
+Quarterly;2025;Q2;Index;Al Qaseem;97.48;2025-06
+Quarterly;2025;Q2;Index;Tabouk;104.4;2025-06
+Quarterly;2025;Q2;Index;Northern Borders;99.29;2025-06
+Quarterly;2025;Q2;Index;Al Jouf;96.93;2025-06
+Quarterly;2025;Q3;Index;Tabouk;103.53;2025-09
+Quarterly;2025;Q3;Index;Northern Borders;93.94;2025-09
+Quarterly;2025;Q3;Index;Al Baha;78.62;2025-09
+Quarterly;2025;Q4;Index;Madinah;92.01;2025-12
+Quarterly;2025;Q4;Index;Eastern Province;97.63;2025-12
+Quarterly;2025;Q4;Index;Al Jouf;93.83;2025-12
+Quarterly;2026;Q1;Index;Riyadh;109.83;2026-03
+Quarterly;2026;Q1;Index;Najran;105.61;2026-03
+Quarterly;2021;Q2;QoQ;Riyadh;0.6;2021-06
+Quarterly;2021;Q2;QoQ;Hail;-0.3;2021-06
+Quarterly;2021;Q2;QoQ;Northern Borders;-1.6;2021-06
+Quarterly;2021;Q3;QoQ;Madinah;5.1;2021-09
+Quarterly;2021;Q3;QoQ;Eastern Province;6.1;2021-09
+Quarterly;2021;Q3;QoQ;Northern Borders;1.0;2021-09
+Quarterly;2021;Q3;QoQ;Jazan;-3.6;2021-09
+Quarterly;2021;Q3;QoQ;Najran;3.0;2021-09
+Quarterly;2021;Q3;QoQ;Al Jouf;3.9;2021-09
+Quarterly;2021;Q4;QoQ;Index Numbers;3.4;2021-12
+Quarterly;2021;Q4;QoQ;Riyadh;5.9;2021-12
+Quarterly;2021;Q4;QoQ;Eastern Province;0.4;2021-12
+Quarterly;2021;Q4;QoQ;Tabouk;-1.4;2021-12
+Quarterly;2021;Q4;QoQ;Najran;-1.2;2021-12
+Quarterly;2022;Q1;QoQ;Index Numbers;2.4;2022-03
+Quarterly;2022;Q1;QoQ;Riyadh;3.8;2022-03
+Quarterly;2022;Q1;QoQ;Eastern Province;0.0;2022-03
+Quarterly;2022;Q2;QoQ;Riyadh;5.0;2022-06
+Quarterly;2022;Q2;QoQ;Najran;1.8;2022-06
+Quarterly;2022;Q3;QoQ;Tabouk;3.7;2022-09
+Quarterly;2022;Q4;QoQ;Tabouk;-1.5;2022-12
+Quarterly;2023;Q1;QoQ;Index Numbers;2.1;2023-03
+Quarterly;2023;Q1;QoQ;Al Qaseem;0.9;2023-03
+Quarterly;2023;Q1;QoQ;Northern Borders;-2.6;2023-03
+Quarterly;2023;Q2;QoQ;Hail;-2.2;2023-06
+Quarterly;2023;Q2;QoQ;Jazan;-2.0;2023-06
+Quarterly;2023;Q3;QoQ;Index Numbers;-0.2;2023-09
+Quarterly;2023;Q3;QoQ;Najran;-6.3;2023-09
+Quarterly;2023;Q3;QoQ;Al Baha;-12.1;2023-09
+Quarterly;2023;Q4;QoQ;Al Qaseem;-1.3;2023-12
+Quarterly;2023;Q4;QoQ;Tabouk;-2.5;2023-12
+Quarterly;2023;Q4;QoQ;Al Baha;7.2;2023-12
+Quarterly;2023;Q4;QoQ;Al Jouf;0.2;2023-12
+Quarterly;2024;Q1;QoQ;Index Numbers;0.0;2024-03
+Quarterly;2024;Q1;QoQ;Riyadh;1.0;2024-03
+Quarterly;2024;Q1;QoQ;Al Qaseem;-2.5;2024-03
+Quarterly;2024;Q2;QoQ;Index Numbers;1.2;2024-06
+Quarterly;2024;Q2;QoQ;Aseer;1.2;2024-06
+Quarterly;2024;Q2;QoQ;Northern Borders;2.2;2024-06
+Quarterly;2024;Q2;QoQ;Al Jouf;8.9;2024-06
+Quarterly;2024;Q3;QoQ;Index Numbers;0.8;2024-09
+Quarterly;2024;Q3;QoQ;Madinah;0.4;2024-09
+Quarterly;2024;Q3;QoQ;Al Qaseem;1.3;2024-09
+Quarterly;2024;Q3;QoQ;Aseer;-0.3;2024-09
+Quarterly;2024;Q3;QoQ;Al Baha;-2.2;2024-09
+Quarterly;2024;Q4;QoQ;Najran;5.1;2024-12
+Quarterly;2025;Q1;QoQ;Riyadh;1.4;2025-03
+Quarterly;2025;Q1;QoQ;Northern Borders;5.7;2025-03
+Quarterly;2025;Q2;QoQ;Riyadh;-3.1;2025-06
+Quarterly;2025;Q2;QoQ;Tabouk;3.9;2025-06
+Quarterly;2025;Q2;QoQ;Jazan;-2.5;2025-06
+Quarterly;2025;Q2;QoQ;Al Jouf;-0.1;2025-06
+Quarterly;2025;Q3;QoQ;Eastern Province;-0.6;2025-09
+Quarterly;2025;Q4;QoQ;Aseer;-0.3;2025-12
+Quarterly;2025;Q4;QoQ;Tabouk;-0.2;2025-12
+Quarterly;2025;Q4;QoQ;Al Jouf;0.2;2025-12
+Quarterly;2026;Q1;QoQ;Riyadh;0.0;2026-03
+Quarterly;2026;Q1;QoQ;Aseer;2.5;2026-03
+Quarterly;2026;Q1;QoQ;Jazan;-0.1;2026-03
+Quarterly;2022;Q1;YoY;Index Numbers;12.2;2022-03
+Quarterly;2022;Q1;YoY;Makkah;6.8;2022-03
+Quarterly;2022;Q1;YoY;Eastern Province;10.7;2022-03
+Quarterly;2022;Q1;YoY;Hail;5.1;2022-03
+Quarterly;2022;Q2;YoY;Index Numbers;16.5;2022-06
+Quarterly;2022;Q2;YoY;Eastern Province;13.1;2022-06
+Quarterly;2022;Q3;YoY;Index Numbers;13.1;2022-09
+Quarterly;2022;Q3;YoY;Makkah;15.3;2022-09
+Quarterly;2022;Q3;YoY;Northern Borders;13.4;2022-09
+Quarterly;2022;Q3;YoY;Najran;-0.3;2022-09
+Quarterly;2022;Q4;YoY;Index Numbers;9.1;2022-12
+Quarterly;2022;Q4;YoY;Madinah;2.8;2022-12
+Quarterly;2022;Q4;YoY;Northern Borders;10.0;2022-12
+Quarterly;2023;Q1;YoY;Northern Borders;0.8;2023-03
+Quarterly;2023;Q2;YoY;Eastern Province;-4.5;2023-06
+Quarterly;2023;Q2;YoY;Tabouk;10.5;2023-06
+Quarterly;2023;Q2;YoY;Najran;20.6;2023-06
+Quarterly;2023;Q3;YoY;Tabouk;10.8;2023-09
+Quarterly;2023;Q3;YoY;Northern Borders;-3.4;2023-09
+Quarterly;2023;Q3;YoY;Al Baha;-0.3;2023-09
+Quarterly;2023;Q3;YoY;Al Jouf;-0.8;2023-09
+Quarterly;2023;Q4;YoY;Index Numbers;3.5;2023-12
+Quarterly;2023;Q4;YoY;Makkah;-1.8;2023-12
+Quarterly;2023;Q4;YoY;Hail;0.5;2023-12
+Quarterly;2023;Q4;YoY;Jazan;3.4;2023-12
+Quarterly;2024;Q1;YoY;Jazan;4.0;2024-03
+Quarterly;2024;Q1;YoY;Al Jouf;-10.9;2024-03
+Quarterly;2024;Q2;YoY;Makkah;-2.4;2024-06
+Quarterly;2024;Q2;YoY;Al Qaseem;-2.0;2024-06
+Quarterly;2024;Q2;YoY;Hail;0.2;2024-06
+Quarterly;2024;Q3;YoY;Tabouk;-3.4;2024-09
+Quarterly;2024;Q3;YoY;Hail;5.0;2024-09
+Quarterly;2024;Q4;YoY;Eastern Province;-4.6;2024-12
+Quarterly;2025;Q1;YoY;Al Qaseem;0.1;2025-03
+Quarterly;2025;Q1;YoY;Hail;4.1;2025-03
+Quarterly;2025;Q2;YoY;Riyadh;3.6;2025-06
+Quarterly;2025;Q2;YoY;Jazan;-2.8;2025-06
+Quarterly;2025;Q2;YoY;Al Jouf;-0.7;2025-06
+Quarterly;2025;Q3;YoY;Index Numbers;1.3;2025-09
+Quarterly;2025;Q4;YoY;Tabouk;1.1;2025-12
+Quarterly;2026;Q1;YoY;Eastern Province;6.9;2026-03
+Quarterly;2026;Q1;YoY;Aseer;1.1;2026-03
+Annually;2021;Annual average;Index;Index Numbers;84.64;2021-01
+Annually;2021;Annual average;Index;Makkah;88.23;2021-01
+Annually;2021;Annual average;Index;Al Qaseem;90.67;2021-01
+Annually;2021;Annual average;Index;Jazan;95.9;2021-01
+Annually;2022;Annual average;Index;Makkah;98.01;2022-01
+Annually;2022;Annual average;Index;Eastern Province;100.68;2022-01
+Annually;2022;Annual average;Index;Tabouk;91.52;2022-01
+Annually;2023;Annual average;Index;Eastern Province;100.0;2023-01
+Annually;2023;Annual average;Index;Aseer;100.0;2023-01
+Annually;2024;Annual average;Index;Index Numbers;102.27;2024-01
+Annually;2024;Annual average;Index;Riyadh;108.58;2024-01
+Annually;2024;Annual average;Index;Madinah;99.19;2024-01
+Annually;2024;Annual average;Index;Al Qaseem;96.6;2024-01
+Annually;2024;Annual average;Index;Northern Borders;100.51;2024-01
+Annually;2024;Annual average;Index;Jazan;101.33;2024-01
+Annually;2025;Annual average;Index;Eastern Province;96.18;2025-01
+Annually;2025;Annual average;Index;Jazan;100.49;2025-01
+Annually;2025;Annual average;Index;Najran;101.15;2025-01
+Annually;2022;Annual average;YoY;Madinah;6.8;2022-01
+Annually;2022;Annual average;YoY;Northern Borders;9.3;2022-01
+Annually;2023;Annual average;YoY;Index Numbers;4.9;2023-01
+Annually;2023;Annual average;YoY;Makkah;2.0;2023-01
+Annually;2023;Annual average;YoY;Madinah;2.4;2023-01
+Annually;2023;Annual average;YoY;Aseer;3.8;2023-01
+Annually;2023;Annual average;YoY;Najran;13.4;2023-01
+Annually;2023;Annual average;YoY;Al Baha;0.7;2023-01
+Annually;2023;Annual average;YoY;Al Jouf;5.2;2023-01
+Annually;2024;Annual average;YoY;Riyadh;8.6;2024-01
+Annually;2024;Annual average;YoY;Makkah;-1.6;2024-01
+Annually;2025;Annual average;YoY;Al Qaseem;-1.7;2025-01
