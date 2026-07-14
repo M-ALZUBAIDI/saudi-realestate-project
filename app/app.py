@@ -121,3 +121,54 @@ st.markdown(
     "likely due to outliers and property-mix shifts in raw listings data."
 )
 
+# ============================================
+# WHY DO THEY DIVERGE? - Property mix explanation
+# ============================================
+st.subheader("🔍 Why Do Kaggle and Official Data Disagree?")
+st.markdown(
+    "A simple average price is sensitive to **what** was sold, not just price changes. "
+    "If the mix of property types shifts between quarters, the average can move even "
+    "when typical prices stay the same. Pick a region below to see its property mix shift."
+)
+
+# Let the user pick a region to investigate
+divergence_region = st.selectbox(
+    "Select a region to inspect",
+    options=sorted(df_all['region_en'].unique()),
+    index=sorted(df_all['region_en'].unique()).index('Najran') if 'Najran' in df_all['region_en'].unique() else 0
+)
+
+region_subset = df_all[df_all['region_en'] == divergence_region]
+
+# Calculate property type mix (%) per quarter for this region
+mix = region_subset.groupby(['source_quarter', 'property_type_grouped']).size().unstack(fill_value=0)
+mix_pct = mix.div(mix.sum(axis=1), axis=0) * 100
+
+col_a, col_b = st.columns([2, 1])
+
+with col_a:
+    st.markdown(f"**Property Type Mix in {divergence_region} (% of transactions)**")
+    fig5, ax5 = plt.subplots(figsize=(8, 4))
+    mix_pct.T.plot(kind='bar', ax=ax5)
+    ax5.set_ylabel("% of Transactions")
+    ax5.set_xlabel("Property Type")
+    ax5.legend(title="Quarter")
+    plt.xticks(rotation=45, ha='right')
+    st.pyplot(fig5)
+
+with col_b:
+    # Pull this region's numbers from the comparison table
+    region_row = comparison[comparison['region'] == divergence_region]
+    if not region_row.empty:
+        kaggle_change = region_row['kaggle_pct_change'].values[0]
+        official_change = region_row['official_pct_change'].values[0]
+        st.metric("Kaggle Avg Price Change", f"{kaggle_change:+.1f}%")
+        st.metric("Official GASTAT Change", f"{official_change:+.1f}%")
+        st.metric("Gap", f"{kaggle_change - official_change:+.1f} pts")
+
+st.markdown(
+    "**Reading this:** if the bars for 2022Q1 and 2023Q1 look noticeably different "
+    "(e.g. more apartments, fewer land plots, or vice versa), that shift in *what* was "
+    "sold — combined with a few extreme-value transactions — helps explain why the "
+    "simple average diverges from GASTAT's standardized index."
+)
